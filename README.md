@@ -1,1 +1,3 @@
-# Python Goal Kepper Game
+# Python GoalKeeper Game
+
+Made using Pygame.
